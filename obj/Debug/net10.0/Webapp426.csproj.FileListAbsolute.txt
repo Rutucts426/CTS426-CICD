@@ -96,3 +96,4 @@ C:\Users\RutuVM426\source\repos\Webapp426\obj\Debug\net10.0\refint\Webapp426.dll
 C:\Users\RutuVM426\source\repos\Webapp426\obj\Debug\net10.0\Webapp426.pdb
 C:\Users\RutuVM426\source\repos\Webapp426\obj\Debug\net10.0\Webapp426.genruntimeconfig.cache
 C:\Users\RutuVM426\source\repos\Webapp426\obj\Debug\net10.0\ref\Webapp426.dll
+C:\Users\RutuVM426\source\repos\Webapp426\obj\Debug\net10.0\Webapp426.sourcelink.json
